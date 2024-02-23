@@ -1,0 +1,534 @@
+ [
+  {
+   "No":1,
+   "Building name":" Mohammed Abdul Rahman Sahib Block",
+   "Spec":"STAIR 1",
+   "Latitude":10.26723,
+   "Longitude":76.14299,
+
+  },
+  {
+   "No":2,
+   "RoomNo":
+   "Spec":"PHYSICS LAB",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.26724,
+   "Longitude":76.142996,
+  },
+  {
+   "No":3,
+   "RoomNo":
+   "Spec":"DARK ROOM",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266972,
+   "Longitude":76.14276,
+  },
+  {
+   "No":4,
+   "RoomNo":
+   "Spec":"MSC PHYSICS LAB",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267239,
+   "Longitude":76.142994,
+  },
+  {
+   "No":5,
+   "RoomNo":
+   "Spec":"DEPARTMENT OF PHYSICS",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267240,
+   "Longitude":76.142995,
+  },
+  {
+   "No":6,
+   "RoomNo":"
+   "Spec":"LIFT",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267228,
+   "Longitude":76.142989,
+  },
+  {
+   "No":7,
+   "RoomNo":110,
+   "Spec":"BCOM 3RD YR CLASSROOM",
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.26758,
+   "Longitude":76.142727,
+  },
+  {
+   "No":8,
+   "RoomNo":109,
+   "Spec":
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.266992,
+   "Longitude":76.142643,
+  },
+  {
+   "No": 9,
+   "RoomNo":
+   "Spec":"BOYS WASHROOM",
+   "Building Name":"Golden Jubilee Commerce Block"
+   "Latitude":10.267423,
+   "Longitude":76.14372,
+  },
+  {
+   "No": 10,    
+   "RoomNo":"
+   "Spec":"STAIR 2",
+   "Building Name":"Golden Jubilee Commerce Block"
+   "Latitude":10.267038,
+   "Longitude":76.143063,
+  },
+  {
+   "No": 11, 
+   "RoomNo":108,
+   "Spec":"3RD YR PSYCOLOGY",
+   "Building Name":"Golden Jubilee Commerce Block"
+   "Latitude":10.267186,
+   "Longitude":76.142911,
+  },
+  {
+   "No":12,
+   "RoomNo":107,
+   "Spec":"PSYCOLOGY LAB",
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.267083,
+   "Longitude":76.142881,
+  },
+  {
+   "No":13,
+   "RoomNo":106,
+   "Spec":"
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.267207,
+   "Longitude":76.142735,
+  },
+  {
+   "No":14,
+   "RoomNo":
+   "Spec":"PSYCOLOGY STAFFROOM",
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.267301,
+   "Longitude":76.142879,
+  },
+  {
+   "No":15,
+   "RoomNo":
+   "Spec":"PG DEPARTMENT OF COMMERCE",
+   "Building Name":"Golden Jubilee Commerce Block"
+   "Latitude":10.266892,
+   "Longitude":76.142832,
+  },
+  {
+   "No":16,   
+   "RoomNo":
+   "Spec":"STAIRS 1"
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.266904,
+   "Longitude":76.142819,
+  },
+ {
+   "No":17,
+   "RoomNo":
+   "Spec":"RESEARCH IN COMMERCE",
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.266913,
+   "Longitude":76.142793,
+  },
+  {
+   "No": 18, 
+   "RoomNo":
+   "Spec":"76.142606",
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.266944,
+   "Longitude":76.142606,
+  },
+  
+  {
+   "No":19,
+   "RoomNo":101,
+   "Spec":
+   "Building Name":"Golden Jubilee Commerce Block",
+   "Latitude":10.266963,
+   "Longitude":76.142662,
+  },
+  {
+   "No":1,
+   "Building name":" Mohammed Abdul Rahman Sahib Block",
+   "Spec":"STAIR 1",
+   "Latitude":10.267024,
+   "Longitude":76.142798,
+
+  },
+  {
+   "No":2,
+   "RoomNo":211,
+   "Spec":,
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.26761,
+   "Longitude":76.142959,
+  },
+  {
+  "No":3,
+  "RoomNo":210,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267056,
+  "Longitude":76.142876,
+  },
+  {
+  "No":4,
+  "RoomNo":209,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267165,
+  "longitude":76.142949,
+  },
+ {
+  "No":5,
+  "RoomNo":
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267053,
+  "Longitude":76.142838,
+  },
+ {
+  "No":6,
+  "RoomNo":
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267425,
+  "Longitude":10.267425,
+  },
+ {
+  "No":7,
+  "RoomNo":
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267291,
+  "Longitude":76.143009,
+  },
+ {
+  "No":8,
+  "RoomNo":208,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":76.143009,
+  "Longitude":76.142955,
+  },
+ {
+  "No":9,
+  "RoomNo":207,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.266925,
+  "Longitude":76.143141,
+  },
+ {
+  "No":10,
+  "RoomNo":
+  "Spec":stair,
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267044,
+  "Longitude":76.143083,
+  },
+ {
+  "No":11,
+  "RoomNo":206,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267283,
+  "Longitude":76.143056,
+  },
+ {
+  "No":12,
+  "RoomNo":205,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267138,
+  "Longitude":76.143066,
+  },
+ {
+  "No":13,
+  "RoomNo":204,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267149,
+  "Longitude":76.143868,
+  },
+ {
+  "No":14,
+  "RoomNo":203,
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267287,
+  "Longitude":10.267287,
+  },
+ {
+  "No":15,
+  "RoomNo":
+  "Spec":
+  "Building Name":"Mohammed Abdul Rahman Sahib Block",
+  "Latitude":10.267287,
+  "Longitude":76.142834,
+  },
+  {
+   "No":1,
+   "Building name":" Mohammed Abdul Rahman Sahib Block",
+   "Spec":"STAIR 1",
+   "Latitude":10.267074,
+   "Longitude":76.142795,
+
+  },
+  {
+   "No":2,
+   "RoomNo":
+   "Spec":"server room",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267108,
+   "Longitude":76.142923,
+  },
+  {
+   "No":3,
+   "RoomNo":
+   "Spec":"COMPUTER LAB1",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267058,
+   "Longitude":76.142802,
+  },
+ {
+   "No":4,
+   "RoomNo":
+   "Spec":"COMPUTER LAB2",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267032,
+   "Longitude":76.142963,
+  },
+ {
+   "No":5,
+   "RoomNo":310,
+   "Spec":"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267198,
+   "Longitude":76.143006,
+  },
+ {
+   "No":6,
+   "RoomNo":
+   "Spec":"LIFT",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267332,
+   "Longitude":76.142437,
+  },
+ {
+   "No":7,
+   "RoomNo":309,
+   "Spec":"BCOM 1ST YR CLASSROOM",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266968,
+   "Longitude":76.142744,
+  },
+ {
+   "No":8,
+   "RoomNo":308,
+   "Spec":"BCOM FINANCE 1ST YR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267125,
+   "Longitude":76.142956,
+  },
+ {
+   "No":9,
+   "RoomNo":
+   "Spec":"STAIR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266957,
+   "Longitude":76.143077,
+  },
+ {
+   "No":10,
+   "RoomNo":307,
+   "Spec":"BBA 1ST YR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267121,
+   "Longitude":76.143015,
+  },
+ {
+   "No":11,
+   "RoomNo":306,
+   "Spec":"BCOM CA 3RD YR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266974,
+   "Longitude":76.143404,
+  },
+ {
+   "No":12,
+   "RoomNo":305,
+   "Spec":"MEDIA LAB",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":,
+   "Longitude":,
+  },
+ {
+   "No":13,
+   "RoomNo":304,
+   "Spec":"MASS COMMUNICATION 3RD YEAR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267101,
+   "Longitude":76.142909,
+  },
+ {
+   "No":14,
+   "RoomNo":
+   "Spec":"STAIR",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267048,
+   "Longitude":76.142773,
+  },
+ {
+   "No":15,
+   "RoomNo":303,
+   "Spec":"MASS COMMUNICATION STAFFROOM",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.26674,
+   "Longitude":76.143879,
+  },
+ {
+   "No":16,
+   "RoomNo":302,
+   "Spec":"HEALTH CLUB",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.367093,
+   "Longitude":76.142691,
+  },
+   
+  {
+   "No":1,
+   "Building name":" Mohammed Abdul Rahman Sahib Block",
+   "Spec":"STAIR 1",
+   "Latitude":10.267074,
+   "Longitude":76.142795,
+
+  },
+ {
+   "No":2,
+   "RoomNo":
+   "Spec":"SERVER ROOM",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267108,
+   "Longitude":76.142923,
+  },
+ 
+{
+   "No":3,
+   "RoomNo":
+   "Spec":"COMPUTER LAB1",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267058,
+   "Longitude":76.142802,
+,
+  },
+{
+   "No":4,
+   "RoomNo":
+   "Spec":"COMPUTER LAB2",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267032,
+   "Longitude":76.142963,
+  },
+ {
+   "No":5,
+   "RoomNo":310,
+   "Spec":"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267198,
+   "Longitude":76.143006,
+  },
+{
+   "No":6,
+   "RoomNo":
+   "Spec":"LIFT",
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267332,
+   "Longitude":76.142437,
+  },
+{
+   "No":7,
+   "RoomNo":309
+   "Spec":Bcom ca 1st year"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266968,
+   "Longitude":76.142744,
+  },
+{
+   "No":8,
+   "RoomNo":308
+   "Spec":Bcom finamce 1st year"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267125,
+   "Longitude":76.142956,
+  },
+{
+   "No":9,
+   "RoomNo":stair
+   "Spec":"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266957,
+   "Longitude":76.143077,
+  },
+{
+   "No":10,
+   "RoomNo":307
+   "Spec":Bba1st year"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267121,
+   "Longitude":76.143015,
+  },
+{
+   "No":11,
+   "RoomNo":306
+   "Spec":Bcom ca3rd year"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.266974,
+   "Longitude":76.143404,
+  },
+{
+   "No":12,
+   "RoomNo":305
+   "Spec":Medialab"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267191,
+   "Longitude":76.143261,
+  },
+{
+   "No":13,
+   "RoomNo":304
+   "Spec":Mass communication 3rd year"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267101,
+   "Longitude":76.142909,
+  },
+{
+   "No":14,
+   "RoomNo":
+   "Spec":STAIR"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.267048,
+   "Longitude":76.142773,
+  },
+{
+   "No":15,
+   "RoomNo":303
+   "Spec":masscommunication staffroom"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.26674,
+   "Longitude":76.143879,
+  },
+{
+   "No":16,
+   "RoomNo":302
+   "Spec":Health club"
+   "Building Name":"Mohammed Abdul Rahman Sahib Block",
+   "Latitude":10.367093,
+   "Longitude":76.142691,
+  },
+ ]
