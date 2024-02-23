@@ -1,0 +1,12 @@
+sudo systemctl status apache2
+sudo systemctl stop apache2
+sudo systemctl start nginx
+sudo systemctl status nginx
+cd /var
+cd www
+cd html
+sudo su
+sudo rm -f index.php
+sudo rm -f .htaccess
+sudo nano .htaccess
+sudo nano index.php
